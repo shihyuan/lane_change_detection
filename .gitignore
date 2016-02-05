@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+*.pyc
+data/*.pickle
+data/*.zip
