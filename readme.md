@@ -41,4 +41,9 @@ Install matplotlib for visualization
 sudo apt-get install python-matplotlib
 ```
 
-
+## To Invoke IPython Notebook
+```
+$ ipython notebook
+```
+At the folder of the .ipynb files.
+ 
